@@ -1,31 +1,60 @@
-# CAD Drawing Collection
+# ⚠️ Important Notice
+This repository will be **archived on 19 December 2025**.  
+Please download or fork the contents before that date if you wish to keep using them.
 
-This repository contains a collection of CAD drawing files for academic and professional use. It is part of the BTech AI & ML Semester 1 coursework.
+![Warning](https://img.shields.io/badge/ARCHIVE-19--Dec--2025-red)
 
-## Contents
+---
 
-- `Drawing1.dwg`: CAD drawing file #1 (AutoCAD format)
-- `Drawing2.dwg`: CAD drawing file #2 (AutoCAD format)
-- `LICENSE`: License information for usage and distribution
-- `README.md`: Project documentation
-- Many more are coming soon!
+# 📐 CAD Drawing Collection
+> A curated set of CAD drawings for academic and professional use, developed as part of the BTech AI & ML Semester 1 coursework.
 
-## Features
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-archived-lightgrey)
 
-- High-quality CAD drawings for reference and practice
-- Suitable for engineering, architecture, and design studies
-- Easy to use and modify
+---
 
-## Usage
+## 📂 Contents
+- `Drawing1.dwg` – Mechanical component design  
+- `Drawing2.dwg` – Architectural floor plan  
+- `LICENSE` – License details  
+- `README.md` – Documentation  
+- More drawings coming soon!
 
-1. Download the `.dwg` files.
-2. Open them using AutoCAD or any compatible CAD software.
-3. Use for study, modification, or project work as permitted by the license.
+---
 
-## License
+## 🌟 Features
+- High-quality CAD drawings for practice and reference  
+- Suitable for engineering, architecture, and design studies  
+- Compatible with AutoCAD and free CAD viewers  
+- Easy to modify and extend  
 
-See the `LICENSE` file for details on usage and distribution rights.
+---
 
-## Contact
+## 🚀 Usage
+1. Download the `.dwg` files.  
+2. Open with AutoCAD or compatible CAD software (e.g., LibreCAD, DraftSight).  
+3. Use for study, modification, or project work as permitted by the license.  
 
-For questions or contributions, please contact me or your course instructor.
+---
+
+## 📜 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.  
+
+---
+
+## 🤝 Contributing
+- Fork the repository  
+- Add your CAD drawings  
+- Submit a pull request  
+
+---
+
+## 📬 Contact
+For questions or contributions, please reach out via GitHub Issues or contact your course instructor.
+
+---
+
+## 🛑 Final Update
+This README was last updated on **17 December 2025**.  
+No further changes will be made after archiving on **19 December 2025**.
